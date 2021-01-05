@@ -1,0 +1,2703 @@
+{
+    "questions" : [{
+        "question": "platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum",
+        "question_id": 1,
+        "answers": [
+          {
+            "id": 1,
+            "value": "executive"
+          },
+          {
+            "id": 2,
+            "value": "Future-proofed"
+          },
+          {
+            "id": 3,
+            "value": "Reverse-engineered"
+          },
+          {
+            "id": 4,
+            "value": "Reactive"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "http://sohu.com/id/mauris.jsp",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut",
+        "difficulty": "medium"
+      }, {
+        "question": "vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id",
+        "question_id": 2,
+        "answers": [
+          {
+            "id": 1,
+            "value": "stable"
+          },
+          {
+            "id": 2,
+            "value": "user-facing"
+          },
+          {
+            "id": 3,
+            "value": "orchestration"
+          },
+          {
+            "id": 4,
+            "value": "Down-sized"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "https://booking.com/lacus.html",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum",
+        "difficulty": "hard"
+      }, {
+        "question": "sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla",
+        "question_id": 3,
+        "answers": [
+          {
+            "id": 1,
+            "value": "zero administration"
+          },
+          {
+            "id": 2,
+            "value": "monitoring"
+          },
+          {
+            "id": 3,
+            "value": "migration"
+          },
+          {
+            "id": 4,
+            "value": "Cross-group"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "https://si.edu/eu/felis/fusce/posuere/felis.png",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est",
+        "difficulty": "easy"
+      }, {
+        "question": "nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut",
+        "question_id": 4,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Organized"
+          },
+          {
+            "id": 2,
+            "value": "zero administration"
+          },
+          {
+            "id": 3,
+            "value": "homogeneous"
+          },
+          {
+            "id": 4,
+            "value": "throughput"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "http://163.com/iaculis/congue/vivamus/metus/arcu/adipiscing.png",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus",
+        "difficulty": "medium"
+      }, {
+        "question": "lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia",
+        "question_id": 5,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Profit-focused"
+          },
+          {
+            "id": 2,
+            "value": "hierarchy"
+          },
+          {
+            "id": 3,
+            "value": "approach"
+          },
+          {
+            "id": 4,
+            "value": "Synergistic"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "https://arizona.edu/lorem/id/ligula/suspendisse/ornare.json",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat",
+        "difficulty": "hard"
+      }, {
+        "question": "aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus",
+        "question_id": 6,
+        "answers": [
+          {
+            "id": 1,
+            "value": "projection"
+          },
+          {
+            "id": 2,
+            "value": "context-sensitive"
+          },
+          {
+            "id": 3,
+            "value": "conglomeration"
+          },
+          {
+            "id": 4,
+            "value": "Triple-buffered"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "http://purevolume.com/enim/lorem/ipsum.jsp",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc",
+        "difficulty": "easy"
+      }, {
+        "question": "nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id",
+        "question_id": 7,
+        "answers": [
+          {
+            "id": 1,
+            "value": "secured line"
+          },
+          {
+            "id": 2,
+            "value": "human-resource"
+          },
+          {
+            "id": 3,
+            "value": "emulation"
+          },
+          {
+            "id": 4,
+            "value": "Fundamental"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "https://hugedomains.com/justo/in/hac/habitasse/platea/dictumst.html",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum",
+        "difficulty": "medium"
+      }, {
+        "question": "mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem",
+        "question_id": 8,
+        "answers": [
+          {
+            "id": 1,
+            "value": "knowledge base"
+          },
+          {
+            "id": 2,
+            "value": "Compatible"
+          },
+          {
+            "id": 3,
+            "value": "Fundamental"
+          },
+          {
+            "id": 4,
+            "value": "architecture"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "https://ftc.gov/urna.js",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "integer non velit donec diam neque vestibulum eget vulputate ut ultrices",
+        "difficulty": "hard"
+      }, {
+        "question": "fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio",
+        "question_id": 9,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Profound"
+          },
+          {
+            "id": 2,
+            "value": "flexibility"
+          },
+          {
+            "id": 3,
+            "value": "Down-sized"
+          },
+          {
+            "id": 4,
+            "value": "dynamic"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "https://dot.gov/quisque/id.png",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed",
+        "difficulty": "easy"
+      }, {
+        "question": "eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus",
+        "question_id": 10,
+        "answers": [
+          {
+            "id": 1,
+            "value": "needs-based"
+          },
+          {
+            "id": 2,
+            "value": "product"
+          },
+          {
+            "id": 3,
+            "value": "Customer-focused"
+          },
+          {
+            "id": 4,
+            "value": "upward-trending"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "https://a8.net/tristique/in/tempus.xml",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed",
+        "difficulty": "medium"
+      }, {
+        "question": "volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus",
+        "question_id": 11,
+        "answers": [
+          {
+            "id": 1,
+            "value": "high-level"
+          },
+          {
+            "id": 2,
+            "value": "fresh-thinking"
+          },
+          {
+            "id": 3,
+            "value": "Exclusive"
+          },
+          {
+            "id": 4,
+            "value": "Self-enabling"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "https://cnbc.com/duis/consequat/dui.png",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi",
+        "difficulty": "hard"
+      }, {
+        "question": "vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis",
+        "question_id": 12,
+        "answers": [
+          {
+            "id": 1,
+            "value": "collaboration"
+          },
+          {
+            "id": 2,
+            "value": "scalable"
+          },
+          {
+            "id": 3,
+            "value": "Exclusive"
+          },
+          {
+            "id": 4,
+            "value": "local area network"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "https://chicagotribune.com/ac/nulla/sed/vel.aspx",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "a suscipit nulla elit ac nulla sed vel enim sit",
+        "difficulty": "easy"
+      }, {
+        "question": "vel pede morbi porttitor lorem id ligula suspendisse ornare consequat",
+        "question_id": 13,
+        "answers": [
+          {
+            "id": 1,
+            "value": "synergy"
+          },
+          {
+            "id": 2,
+            "value": "Integrated"
+          },
+          {
+            "id": 3,
+            "value": "Managed"
+          },
+          {
+            "id": 4,
+            "value": "local area network"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "https://disqus.com/magna/vulputate/luctus/cum/sociis.jpg",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu",
+        "difficulty": "medium"
+      }, {
+        "question": "ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin",
+        "question_id": 14,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Open-architected"
+          },
+          {
+            "id": 2,
+            "value": "help-desk"
+          },
+          {
+            "id": 3,
+            "value": "Profound"
+          },
+          {
+            "id": 4,
+            "value": "mobile"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "https://dot.gov/lobortis/est/phasellus/sit/amet/erat/nulla.js",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in",
+        "difficulty": "hard"
+      }, {
+        "question": "est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor",
+        "question_id": 15,
+        "answers": [
+          {
+            "id": 1,
+            "value": "radical"
+          },
+          {
+            "id": 2,
+            "value": "empowering"
+          },
+          {
+            "id": 3,
+            "value": "Automated"
+          },
+          {
+            "id": 4,
+            "value": "heuristic"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "https://google.de/pede/ac/diam/cras/pellentesque/volutpat/dui.json",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor",
+        "difficulty": "easy"
+      }, {
+        "question": "sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu",
+        "question_id": 16,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Operative"
+          },
+          {
+            "id": 2,
+            "value": "Enhanced"
+          },
+          {
+            "id": 3,
+            "value": "optimal"
+          },
+          {
+            "id": 4,
+            "value": "motivating"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "http://vkontakte.ru/habitasse/platea/dictumst.json",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit",
+        "difficulty": "medium"
+      }, {
+        "question": "pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis",
+        "question_id": 17,
+        "answers": [
+          {
+            "id": 1,
+            "value": "superstructure"
+          },
+          {
+            "id": 2,
+            "value": "Down-sized"
+          },
+          {
+            "id": 3,
+            "value": "Synergized"
+          },
+          {
+            "id": 4,
+            "value": "ability"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "http://auda.org.au/vestibulum/rutrum/rutrum/neque/aenean.aspx",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris",
+        "difficulty": "hard"
+      }, {
+        "question": "nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa",
+        "question_id": 18,
+        "answers": [
+          {
+            "id": 1,
+            "value": "projection"
+          },
+          {
+            "id": 2,
+            "value": "Programmable"
+          },
+          {
+            "id": 3,
+            "value": "pricing structure"
+          },
+          {
+            "id": 4,
+            "value": "Graphic Interface"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "http://odnoklassniki.ru/non/mauris/morbi/non/lectus/aliquam.jsp",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam",
+        "difficulty": "easy"
+      }, {
+        "question": "orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus",
+        "question_id": 19,
+        "answers": [
+          {
+            "id": 1,
+            "value": "client-driven"
+          },
+          {
+            "id": 2,
+            "value": "contingency"
+          },
+          {
+            "id": 3,
+            "value": "didactic"
+          },
+          {
+            "id": 4,
+            "value": "real-time"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "http://disqus.com/euismod/scelerisque.xml",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in",
+        "difficulty": "medium"
+      }, {
+        "question": "rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id",
+        "question_id": 20,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Integrated"
+          },
+          {
+            "id": 2,
+            "value": "Total"
+          },
+          {
+            "id": 3,
+            "value": "uniform"
+          },
+          {
+            "id": 4,
+            "value": "maximized"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "http://globo.com/morbi.js",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "in magna bibendum imperdiet nullam orci pede venenatis non sodales sed",
+        "difficulty": "hard"
+      }, {
+        "question": "in faucibus orci luctus et ultrices posuere cubilia curae mauris",
+        "question_id": 21,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Down-sized"
+          },
+          {
+            "id": 2,
+            "value": "multi-state"
+          },
+          {
+            "id": 3,
+            "value": "approach"
+          },
+          {
+            "id": 4,
+            "value": "intranet"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "https://google.ca/maecenas/rhoncus/aliquam.html",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam",
+        "difficulty": "easy"
+      }, {
+        "question": "phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor",
+        "question_id": 22,
+        "answers": [
+          {
+            "id": 1,
+            "value": "stable"
+          },
+          {
+            "id": 2,
+            "value": "task-force"
+          },
+          {
+            "id": 3,
+            "value": "multi-state"
+          },
+          {
+            "id": 4,
+            "value": "alliance"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "https://jimdo.com/vestibulum/rutrum/rutrum/neque/aenean/auctor/gravida.png",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci",
+        "difficulty": "medium"
+      }, {
+        "question": "non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus",
+        "question_id": 23,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Reduced"
+          },
+          {
+            "id": 2,
+            "value": "Total"
+          },
+          {
+            "id": 3,
+            "value": "internet solution"
+          },
+          {
+            "id": 4,
+            "value": "solution"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "http://meetup.com/in/felis/donec/semper/sapien.png",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat",
+        "difficulty": "hard"
+      }, {
+        "question": "quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu",
+        "question_id": 24,
+        "answers": [
+          {
+            "id": 1,
+            "value": "non-volatile"
+          },
+          {
+            "id": 2,
+            "value": "matrix"
+          },
+          {
+            "id": 3,
+            "value": "Horizontal"
+          },
+          {
+            "id": 4,
+            "value": "architecture"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "https://smh.com.au/non/velit/nec/nisi/vulputate.js",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna",
+        "difficulty": "easy"
+      }, {
+        "question": "varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim",
+        "question_id": 25,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Streamlined"
+          },
+          {
+            "id": 2,
+            "value": "synergy"
+          },
+          {
+            "id": 3,
+            "value": "service-desk"
+          },
+          {
+            "id": 4,
+            "value": "synergy"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "https://yale.edu/est/quam/pharetra/magna/ac.jpg",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante",
+        "difficulty": "medium"
+      }, {
+        "question": "amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem",
+        "question_id": 26,
+        "answers": [
+          {
+            "id": 1,
+            "value": "workforce"
+          },
+          {
+            "id": 2,
+            "value": "Ameliorated"
+          },
+          {
+            "id": 3,
+            "value": "De-engineered"
+          },
+          {
+            "id": 4,
+            "value": "support"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "https://livejournal.com/amet/sem/fusce/consequat.jpg",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi",
+        "difficulty": "hard"
+      }, {
+        "question": "facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus",
+        "question_id": 27,
+        "answers": [
+          {
+            "id": 1,
+            "value": "explicit"
+          },
+          {
+            "id": 2,
+            "value": "tertiary"
+          },
+          {
+            "id": 3,
+            "value": "extranet"
+          },
+          {
+            "id": 4,
+            "value": "De-engineered"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "https://google.co.jp/ac/enim/in.js",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien",
+        "difficulty": "easy"
+      }, {
+        "question": "tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed",
+        "question_id": 28,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Re-engineered"
+          },
+          {
+            "id": 2,
+            "value": "system-worthy"
+          },
+          {
+            "id": 3,
+            "value": "capacity"
+          },
+          {
+            "id": 4,
+            "value": "Streamlined"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "http://jalbum.net/aliquam.png",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis",
+        "difficulty": "medium"
+      }, {
+        "question": "rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam",
+        "question_id": 29,
+        "answers": [
+          {
+            "id": 1,
+            "value": "strategy"
+          },
+          {
+            "id": 2,
+            "value": "Enterprise-wide"
+          },
+          {
+            "id": 3,
+            "value": "toolset"
+          },
+          {
+            "id": 4,
+            "value": "User-friendly"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "http://lycos.com/in/lectus/pellentesque.xml",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis",
+        "difficulty": "hard"
+      }, {
+        "question": "id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis",
+        "question_id": 30,
+        "answers": [
+          {
+            "id": 1,
+            "value": "alliance"
+          },
+          {
+            "id": 2,
+            "value": "Function-based"
+          },
+          {
+            "id": 3,
+            "value": "Visionary"
+          },
+          {
+            "id": 4,
+            "value": "incremental"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "https://surveymonkey.com/nulla/ut/erat/id/mauris/vulputate/elementum.xml",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet",
+        "difficulty": "easy"
+      }, {
+        "question": "luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus",
+        "question_id": 31,
+        "answers": [
+          {
+            "id": 1,
+            "value": "middleware"
+          },
+          {
+            "id": 2,
+            "value": "Fully-configurable"
+          },
+          {
+            "id": 3,
+            "value": "fault-tolerant"
+          },
+          {
+            "id": 4,
+            "value": "Implemented"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "http://scientificamerican.com/aliquam.aspx",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis",
+        "difficulty": "medium"
+      }, {
+        "question": "varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus",
+        "question_id": 32,
+        "answers": [
+          {
+            "id": 1,
+            "value": "infrastructure"
+          },
+          {
+            "id": 2,
+            "value": "Sharable"
+          },
+          {
+            "id": 3,
+            "value": "full-range"
+          },
+          {
+            "id": 4,
+            "value": "Public-key"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "http://blinklist.com/erat/volutpat/in.json",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat",
+        "difficulty": "hard"
+      }, {
+        "question": "mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis",
+        "question_id": 33,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Versatile"
+          },
+          {
+            "id": 2,
+            "value": "zero defect"
+          },
+          {
+            "id": 3,
+            "value": "software"
+          },
+          {
+            "id": 4,
+            "value": "monitoring"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "https://berkeley.edu/aenean/lectus/pellentesque/eget/nunc/donec/quis.jpg",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio",
+        "difficulty": "easy"
+      }, {
+        "question": "semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis",
+        "question_id": 34,
+        "answers": [
+          {
+            "id": 1,
+            "value": "monitoring"
+          },
+          {
+            "id": 2,
+            "value": "capability"
+          },
+          {
+            "id": 3,
+            "value": "implementation"
+          },
+          {
+            "id": 4,
+            "value": "optimizing"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "http://exblog.jp/enim.aspx",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc",
+        "difficulty": "medium"
+      }, {
+        "question": "primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus",
+        "question_id": 35,
+        "answers": [
+          {
+            "id": 1,
+            "value": "foreground"
+          },
+          {
+            "id": 2,
+            "value": "high-level"
+          },
+          {
+            "id": 3,
+            "value": "functionalities"
+          },
+          {
+            "id": 4,
+            "value": "national"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "https://soup.io/suspendisse/potenti/in/eleifend/quam/a/odio.png",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse",
+        "difficulty": "hard"
+      }, {
+        "question": "orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec",
+        "question_id": 36,
+        "answers": [
+          {
+            "id": 1,
+            "value": "responsive"
+          },
+          {
+            "id": 2,
+            "value": "portal"
+          },
+          {
+            "id": 3,
+            "value": "toolset"
+          },
+          {
+            "id": 4,
+            "value": "methodology"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "http://boston.com/rutrum/nulla/tellus/in/sagittis/dui/vel.json",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "elementum ligula vehicula consequat morbi a ipsum integer a nibh in",
+        "difficulty": "easy"
+      }, {
+        "question": "mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta",
+        "question_id": 37,
+        "answers": [
+          {
+            "id": 1,
+            "value": "definition"
+          },
+          {
+            "id": 2,
+            "value": "foreground"
+          },
+          {
+            "id": 3,
+            "value": "solution"
+          },
+          {
+            "id": 4,
+            "value": "Integrated"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "http://a8.net/est/quam/pharetra/magna/ac/consequat.aspx",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum",
+        "difficulty": "medium"
+      }, {
+        "question": "porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum",
+        "question_id": 38,
+        "answers": [
+          {
+            "id": 1,
+            "value": "process improvement"
+          },
+          {
+            "id": 2,
+            "value": "capacity"
+          },
+          {
+            "id": 3,
+            "value": "neural-net"
+          },
+          {
+            "id": 4,
+            "value": "Profound"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "https://multiply.com/suspendisse.png",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis",
+        "difficulty": "hard"
+      }, {
+        "question": "varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a",
+        "question_id": 39,
+        "answers": [
+          {
+            "id": 1,
+            "value": "infrastructure"
+          },
+          {
+            "id": 2,
+            "value": "Advanced"
+          },
+          {
+            "id": 3,
+            "value": "superstructure"
+          },
+          {
+            "id": 4,
+            "value": "hierarchy"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "http://bizjournals.com/faucibus/orci/luctus/et/ultrices/posuere/cubilia.jpg",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea",
+        "difficulty": "easy"
+      }, {
+        "question": "convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum",
+        "question_id": 40,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Organized"
+          },
+          {
+            "id": 2,
+            "value": "Profound"
+          },
+          {
+            "id": 3,
+            "value": "service-desk"
+          },
+          {
+            "id": 4,
+            "value": "user-facing"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "http://va.gov/consequat.js",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate",
+        "difficulty": "medium"
+      }, {
+        "question": "imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in",
+        "question_id": 41,
+        "answers": [
+          {
+            "id": 1,
+            "value": "fault-tolerant"
+          },
+          {
+            "id": 2,
+            "value": "functionalities"
+          },
+          {
+            "id": 3,
+            "value": "core"
+          },
+          {
+            "id": 4,
+            "value": "reciprocal"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "https://tripod.com/risus/dapibus/augue/vel/accumsan/tellus.jsp",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis",
+        "difficulty": "hard"
+      }, {
+        "question": "vulputate luctus cum sociis natoque penatibus et magnis dis parturient",
+        "question_id": 42,
+        "answers": [
+          {
+            "id": 1,
+            "value": "context-sensitive"
+          },
+          {
+            "id": 2,
+            "value": "hybrid"
+          },
+          {
+            "id": 3,
+            "value": "synergy"
+          },
+          {
+            "id": 4,
+            "value": "mobile"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "http://archive.org/orci/luctus/et/ultrices.js",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis",
+        "difficulty": "easy"
+      }, {
+        "question": "justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis",
+        "question_id": 43,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Monitored"
+          },
+          {
+            "id": 2,
+            "value": "well-modulated"
+          },
+          {
+            "id": 3,
+            "value": "structure"
+          },
+          {
+            "id": 4,
+            "value": "Synchronised"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "http://nbcnews.com/duis/consequat/dui/nec.html",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis",
+        "difficulty": "medium"
+      }, {
+        "question": "in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras",
+        "question_id": 44,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Centralized"
+          },
+          {
+            "id": 2,
+            "value": "optimizing"
+          },
+          {
+            "id": 3,
+            "value": "toolset"
+          },
+          {
+            "id": 4,
+            "value": "system engine"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "http://cyberchimps.com/tempor.aspx",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate",
+        "difficulty": "hard"
+      }, {
+        "question": "placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis",
+        "question_id": 45,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Up-sized"
+          },
+          {
+            "id": 2,
+            "value": "solution"
+          },
+          {
+            "id": 3,
+            "value": "tertiary"
+          },
+          {
+            "id": 4,
+            "value": "modular"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "https://posterous.com/vel/dapibus/at/diam/nam/tristique/tortor.xml",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla",
+        "difficulty": "easy"
+      }, {
+        "question": "mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci",
+        "question_id": 46,
+        "answers": [
+          {
+            "id": 1,
+            "value": "24 hour"
+          },
+          {
+            "id": 2,
+            "value": "Extended"
+          },
+          {
+            "id": 3,
+            "value": "bottom-line"
+          },
+          {
+            "id": 4,
+            "value": "Cloned"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "https://myspace.com/lectus/vestibulum/quam.png",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse",
+        "difficulty": "medium"
+      }, {
+        "question": "eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget",
+        "question_id": 47,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Triple-buffered"
+          },
+          {
+            "id": 2,
+            "value": "bandwidth-monitored"
+          },
+          {
+            "id": 3,
+            "value": "Assimilated"
+          },
+          {
+            "id": 4,
+            "value": "radical"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "https://weibo.com/faucibus/orci.json",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam",
+        "difficulty": "hard"
+      }, {
+        "question": "sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus",
+        "question_id": 48,
+        "answers": [
+          {
+            "id": 1,
+            "value": "contingency"
+          },
+          {
+            "id": 2,
+            "value": "object-oriented"
+          },
+          {
+            "id": 3,
+            "value": "toolset"
+          },
+          {
+            "id": 4,
+            "value": "Sharable"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "http://blog.com/ultrices.js",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "sit amet diam in magna bibendum imperdiet nullam orci pede venenatis",
+        "difficulty": "easy"
+      }, {
+        "question": "augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel",
+        "question_id": 49,
+        "answers": [
+          {
+            "id": 1,
+            "value": "matrix"
+          },
+          {
+            "id": 2,
+            "value": "project"
+          },
+          {
+            "id": 3,
+            "value": "function"
+          },
+          {
+            "id": 4,
+            "value": "Re-engineered"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "https://vinaora.com/vulputate/ut/ultrices.js",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing",
+        "difficulty": "medium"
+      }, {
+        "question": "morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id",
+        "question_id": 50,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Monitored"
+          },
+          {
+            "id": 2,
+            "value": "circuit"
+          },
+          {
+            "id": 3,
+            "value": "hierarchy"
+          },
+          {
+            "id": 4,
+            "value": "migration"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "http://ca.gov/aliquam/quis/turpis/eget.jsp",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula",
+        "difficulty": "hard"
+      }, {
+        "question": "sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus",
+        "question_id": 51,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Graphic Interface"
+          },
+          {
+            "id": 2,
+            "value": "user-facing"
+          },
+          {
+            "id": 3,
+            "value": "mission-critical"
+          },
+          {
+            "id": 4,
+            "value": "Switchable"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "https://vinaora.com/est/lacinia/nisi/venenatis/tristique/fusce.json",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam",
+        "difficulty": "easy"
+      }, {
+        "question": "sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed",
+        "question_id": 52,
+        "answers": [
+          {
+            "id": 1,
+            "value": "zero tolerance"
+          },
+          {
+            "id": 2,
+            "value": "actuating"
+          },
+          {
+            "id": 3,
+            "value": "neural-net"
+          },
+          {
+            "id": 4,
+            "value": "scalable"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "https://acquirethisname.com/nec/nisi/vulputate/nonummy.json",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a",
+        "difficulty": "medium"
+      }, {
+        "question": "sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis",
+        "question_id": 53,
+        "answers": [
+          {
+            "id": 1,
+            "value": "De-engineered"
+          },
+          {
+            "id": 2,
+            "value": "moderator"
+          },
+          {
+            "id": 3,
+            "value": "data-warehouse"
+          },
+          {
+            "id": 4,
+            "value": "Customer-focused"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "http://histats.com/nam/tristique/tortor.jsp",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede",
+        "difficulty": "hard"
+      }, {
+        "question": "neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet",
+        "question_id": 54,
+        "answers": [
+          {
+            "id": 1,
+            "value": "even-keeled"
+          },
+          {
+            "id": 2,
+            "value": "composite"
+          },
+          {
+            "id": 3,
+            "value": "Integrated"
+          },
+          {
+            "id": 4,
+            "value": "actuating"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "https://wikipedia.org/blandit/non/interdum/in/ante/vestibulum.aspx",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu",
+        "difficulty": "easy"
+      }, {
+        "question": "fusce posuere felis sed lacus morbi sem mauris laoreet ut",
+        "question_id": 55,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Versatile"
+          },
+          {
+            "id": 2,
+            "value": "dynamic"
+          },
+          {
+            "id": 3,
+            "value": "asymmetric"
+          },
+          {
+            "id": 4,
+            "value": "Polarised"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "https://bloglines.com/bibendum/imperdiet/nullam/orci.js",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras",
+        "difficulty": "medium"
+      }, {
+        "question": "sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta",
+        "question_id": 56,
+        "answers": [
+          {
+            "id": 1,
+            "value": "collaboration"
+          },
+          {
+            "id": 2,
+            "value": "Persevering"
+          },
+          {
+            "id": 3,
+            "value": "value-added"
+          },
+          {
+            "id": 4,
+            "value": "high-level"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "https://businesswire.com/et/eros/vestibulum/ac/est.json",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla",
+        "difficulty": "hard"
+      }, {
+        "question": "orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate",
+        "question_id": 57,
+        "answers": [
+          {
+            "id": 1,
+            "value": "5th generation"
+          },
+          {
+            "id": 2,
+            "value": "regional"
+          },
+          {
+            "id": 3,
+            "value": "high-level"
+          },
+          {
+            "id": 4,
+            "value": "infrastructure"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "http://icq.com/fusce/lacus/purus/aliquet.png",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede",
+        "difficulty": "easy"
+      }, {
+        "question": "habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum",
+        "question_id": 58,
+        "answers": [
+          {
+            "id": 1,
+            "value": "database"
+          },
+          {
+            "id": 2,
+            "value": "Horizontal"
+          },
+          {
+            "id": 3,
+            "value": "Inverse"
+          },
+          {
+            "id": 4,
+            "value": "installation"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "http://mashable.com/a/suscipit/nulla/elit.xml",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at",
+        "difficulty": "medium"
+      }, {
+        "question": "neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices",
+        "question_id": 59,
+        "answers": [
+          {
+            "id": 1,
+            "value": "info-mediaries"
+          },
+          {
+            "id": 2,
+            "value": "contingency"
+          },
+          {
+            "id": 3,
+            "value": "conglomeration"
+          },
+          {
+            "id": 4,
+            "value": "contingency"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "http://ucoz.com/pede/posuere/nonummy/integer/non/velit/donec.html",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit",
+        "difficulty": "hard"
+      }, {
+        "question": "eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante",
+        "question_id": 60,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Decentralized"
+          },
+          {
+            "id": 2,
+            "value": "hybrid"
+          },
+          {
+            "id": 3,
+            "value": "next generation"
+          },
+          {
+            "id": 4,
+            "value": "secondary"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "http://hud.gov/diam/erat/fermentum/justo/nec/condimentum.js",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede",
+        "difficulty": "easy"
+      }, {
+        "question": "lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in",
+        "question_id": 61,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Advanced"
+          },
+          {
+            "id": 2,
+            "value": "systematic"
+          },
+          {
+            "id": 3,
+            "value": "Advanced"
+          },
+          {
+            "id": 4,
+            "value": "Adaptive"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "http://de.vu/urna/pretium/nisl/ut/volutpat/sapien/arcu.xml",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
+        "difficulty": "medium"
+      }, {
+        "question": "vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur",
+        "question_id": 62,
+        "answers": [
+          {
+            "id": 1,
+            "value": "data-warehouse"
+          },
+          {
+            "id": 2,
+            "value": "Cross-platform"
+          },
+          {
+            "id": 3,
+            "value": "system-worthy"
+          },
+          {
+            "id": 4,
+            "value": "migration"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "https://scientificamerican.com/fermentum/donec/ut/mauris.xml",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse",
+        "difficulty": "hard"
+      }, {
+        "question": "ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh",
+        "question_id": 63,
+        "answers": [
+          {
+            "id": 1,
+            "value": "collaboration"
+          },
+          {
+            "id": 2,
+            "value": "Inverse"
+          },
+          {
+            "id": 3,
+            "value": "zero administration"
+          },
+          {
+            "id": 4,
+            "value": "fresh-thinking"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "https://disqus.com/lacinia/nisi/venenatis/tristique/fusce/congue/diam.jpg",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor",
+        "difficulty": "easy"
+      }, {
+        "question": "pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean",
+        "question_id": 64,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Grass-roots"
+          },
+          {
+            "id": 2,
+            "value": "customer loyalty"
+          },
+          {
+            "id": 3,
+            "value": "middleware"
+          },
+          {
+            "id": 4,
+            "value": "Programmable"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "http://drupal.org/nam.png",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel",
+        "difficulty": "medium"
+      }, {
+        "question": "vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec",
+        "question_id": 65,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Proactive"
+          },
+          {
+            "id": 2,
+            "value": "3rd generation"
+          },
+          {
+            "id": 3,
+            "value": "didactic"
+          },
+          {
+            "id": 4,
+            "value": "Team-oriented"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "https://gnu.org/id/luctus.aspx",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam",
+        "difficulty": "hard"
+      }, {
+        "question": "ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam",
+        "question_id": 66,
+        "answers": [
+          {
+            "id": 1,
+            "value": "complexity"
+          },
+          {
+            "id": 2,
+            "value": "discrete"
+          },
+          {
+            "id": 3,
+            "value": "attitude-oriented"
+          },
+          {
+            "id": 4,
+            "value": "zero defect"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "https://sakura.ne.jp/nulla/quisque/arcu/libero/rutrum/ac.jsp",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et",
+        "difficulty": "easy"
+      }, {
+        "question": "ante ipsum primis in faucibus orci luctus et ultrices posuere",
+        "question_id": 67,
+        "answers": [
+          {
+            "id": 1,
+            "value": "object-oriented"
+          },
+          {
+            "id": 2,
+            "value": "asymmetric"
+          },
+          {
+            "id": 3,
+            "value": "fault-tolerant"
+          },
+          {
+            "id": 4,
+            "value": "Synergistic"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "https://scientificamerican.com/morbi/vestibulum/velit/id/pretium.aspx",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac",
+        "difficulty": "medium"
+      }, {
+        "question": "a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo",
+        "question_id": 68,
+        "answers": [
+          {
+            "id": 1,
+            "value": "matrix"
+          },
+          {
+            "id": 2,
+            "value": "even-keeled"
+          },
+          {
+            "id": 3,
+            "value": "open architecture"
+          },
+          {
+            "id": 4,
+            "value": "model"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "https://fotki.com/lacinia/nisi/venenatis.js",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi",
+        "difficulty": "hard"
+      }, {
+        "question": "ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia",
+        "question_id": 69,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Customer-focused"
+          },
+          {
+            "id": 2,
+            "value": "discrete"
+          },
+          {
+            "id": 3,
+            "value": "impactful"
+          },
+          {
+            "id": 4,
+            "value": "Re-contextualized"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "https://seesaa.net/luctus.html",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi",
+        "difficulty": "easy"
+      }, {
+        "question": "elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in",
+        "question_id": 70,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Proactive"
+          },
+          {
+            "id": 2,
+            "value": "radical"
+          },
+          {
+            "id": 3,
+            "value": "Multi-layered"
+          },
+          {
+            "id": 4,
+            "value": "archive"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "http://illinois.edu/felis/eu.png",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet",
+        "difficulty": "medium"
+      }, {
+        "question": "sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis",
+        "question_id": 71,
+        "answers": [
+          {
+            "id": 1,
+            "value": "instruction set"
+          },
+          {
+            "id": 2,
+            "value": "explicit"
+          },
+          {
+            "id": 3,
+            "value": "interactive"
+          },
+          {
+            "id": 4,
+            "value": "Upgradable"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "https://oaic.gov.au/vel.xml",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse",
+        "difficulty": "hard"
+      }, {
+        "question": "habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam",
+        "question_id": 72,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Cross-group"
+          },
+          {
+            "id": 2,
+            "value": "didactic"
+          },
+          {
+            "id": 3,
+            "value": "Object-based"
+          },
+          {
+            "id": 4,
+            "value": "dynamic"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "http://slideshare.net/nisl/nunc/rhoncus.js",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas",
+        "difficulty": "easy"
+      }, {
+        "question": "ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum",
+        "question_id": 73,
+        "answers": [
+          {
+            "id": 1,
+            "value": "even-keeled"
+          },
+          {
+            "id": 2,
+            "value": "benchmark"
+          },
+          {
+            "id": 3,
+            "value": "3rd generation"
+          },
+          {
+            "id": 4,
+            "value": "6th generation"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "https://discovery.com/ipsum/integer/a/nibh.json",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor",
+        "difficulty": "medium"
+      }, {
+        "question": "semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in",
+        "question_id": 74,
+        "answers": [
+          {
+            "id": 1,
+            "value": "multi-state"
+          },
+          {
+            "id": 2,
+            "value": "Switchable"
+          },
+          {
+            "id": 3,
+            "value": "emulation"
+          },
+          {
+            "id": 4,
+            "value": "conglomeration"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "http://lycos.com/lorem/id/ligula/suspendisse/ornare/consequat/lectus.jpg",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac",
+        "difficulty": "hard"
+      }, {
+        "question": "sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel",
+        "question_id": 75,
+        "answers": [
+          {
+            "id": 1,
+            "value": "algorithm"
+          },
+          {
+            "id": 2,
+            "value": "next generation"
+          },
+          {
+            "id": 3,
+            "value": "content-based"
+          },
+          {
+            "id": 4,
+            "value": "extranet"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "http://discuz.net/ut/rhoncus/aliquet/pulvinar/sed/nisl/nunc.aspx",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi",
+        "difficulty": "easy"
+      }, {
+        "question": "suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor",
+        "question_id": 76,
+        "answers": [
+          {
+            "id": 1,
+            "value": "paradigm"
+          },
+          {
+            "id": 2,
+            "value": "Extended"
+          },
+          {
+            "id": 3,
+            "value": "protocol"
+          },
+          {
+            "id": 4,
+            "value": "Persevering"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "http://imdb.com/aenean/auctor/gravida.js",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio",
+        "difficulty": "medium"
+      }, {
+        "question": "aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas",
+        "question_id": 77,
+        "answers": [
+          {
+            "id": 1,
+            "value": "archive"
+          },
+          {
+            "id": 2,
+            "value": "moderator"
+          },
+          {
+            "id": 3,
+            "value": "core"
+          },
+          {
+            "id": 4,
+            "value": "Mandatory"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "http://patch.com/luctus/rutrum.js",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam",
+        "difficulty": "hard"
+      }, {
+        "question": "nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit",
+        "question_id": 78,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Cross-group"
+          },
+          {
+            "id": 2,
+            "value": "impactful"
+          },
+          {
+            "id": 3,
+            "value": "policy"
+          },
+          {
+            "id": 4,
+            "value": "adapter"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "https://purevolume.com/posuere/felis/sed/lacus/morbi/sem/mauris.jsp",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis",
+        "difficulty": "easy"
+      }, {
+        "question": "etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus",
+        "question_id": 79,
+        "answers": [
+          {
+            "id": 1,
+            "value": "archive"
+          },
+          {
+            "id": 2,
+            "value": "Persevering"
+          },
+          {
+            "id": 3,
+            "value": "Optional"
+          },
+          {
+            "id": 4,
+            "value": "local area network"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "https://phoca.cz/blandit/non/interdum/in/ante/vestibulum/ante.jpg",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices",
+        "difficulty": "medium"
+      }, {
+        "question": "quisque porta volutpat erat quisque erat eros viverra eget congue eget",
+        "question_id": 80,
+        "answers": [
+          {
+            "id": 1,
+            "value": "synergy"
+          },
+          {
+            "id": 2,
+            "value": "internet solution"
+          },
+          {
+            "id": 3,
+            "value": "Upgradable"
+          },
+          {
+            "id": 4,
+            "value": "complexity"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "http://cornell.edu/mi/sit/amet/lobortis/sapien/sapien/non.jsp",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus",
+        "difficulty": "hard"
+      }, {
+        "question": "sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede",
+        "question_id": 81,
+        "answers": [
+          {
+            "id": 1,
+            "value": "system engine"
+          },
+          {
+            "id": 2,
+            "value": "radical"
+          },
+          {
+            "id": 3,
+            "value": "Managed"
+          },
+          {
+            "id": 4,
+            "value": "asymmetric"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "http://booking.com/sapien/cursus/vestibulum/proin/eu/mi/nulla.js",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum",
+        "difficulty": "easy"
+      }, {
+        "question": "laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam",
+        "question_id": 82,
+        "answers": [
+          {
+            "id": 1,
+            "value": "ability"
+          },
+          {
+            "id": 2,
+            "value": "infrastructure"
+          },
+          {
+            "id": 3,
+            "value": "Realigned"
+          },
+          {
+            "id": 4,
+            "value": "Cross-group"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "https://hexun.com/nunc/proin/at/turpis.jsp",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec",
+        "difficulty": "medium"
+      }, {
+        "question": "duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at",
+        "question_id": 83,
+        "answers": [
+          {
+            "id": 1,
+            "value": "neutral"
+          },
+          {
+            "id": 2,
+            "value": "user-facing"
+          },
+          {
+            "id": 3,
+            "value": "User-centric"
+          },
+          {
+            "id": 4,
+            "value": "user-facing"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "http://arstechnica.com/cras/non.aspx",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut",
+        "difficulty": "hard"
+      }, {
+        "question": "tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu",
+        "question_id": 84,
+        "answers": [
+          {
+            "id": 1,
+            "value": "cohesive"
+          },
+          {
+            "id": 2,
+            "value": "User-centric"
+          },
+          {
+            "id": 3,
+            "value": "responsive"
+          },
+          {
+            "id": 4,
+            "value": "Secured"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "https://quantcast.com/id/nulla.aspx",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero",
+        "difficulty": "easy"
+      }, {
+        "question": "orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin",
+        "question_id": 85,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Fundamental"
+          },
+          {
+            "id": 2,
+            "value": "content-based"
+          },
+          {
+            "id": 3,
+            "value": "dedicated"
+          },
+          {
+            "id": 4,
+            "value": "Automated"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "https://bloomberg.com/quisque/porta/volutpat/erat/quisque/erat/eros.png",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus",
+        "difficulty": "medium"
+      }, {
+        "question": "ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac",
+        "question_id": 86,
+        "answers": [
+          {
+            "id": 1,
+            "value": "multimedia"
+          },
+          {
+            "id": 2,
+            "value": "utilisation"
+          },
+          {
+            "id": 3,
+            "value": "non-volatile"
+          },
+          {
+            "id": 4,
+            "value": "bottom-line"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "https://bravesites.com/quam/pede/lobortis.aspx",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et",
+        "difficulty": "hard"
+      }, {
+        "question": "quis lectus suspendisse potenti in eleifend quam a odio in hac",
+        "question_id": 87,
+        "answers": [
+          {
+            "id": 1,
+            "value": "explicit"
+          },
+          {
+            "id": 2,
+            "value": "impactful"
+          },
+          {
+            "id": 3,
+            "value": "modular"
+          },
+          {
+            "id": 4,
+            "value": "explicit"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "https://howstuffworks.com/lacus/at/turpis/donec/posuere.xml",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a",
+        "difficulty": "easy"
+      }, {
+        "question": "tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in",
+        "question_id": 88,
+        "answers": [
+          {
+            "id": 1,
+            "value": "hardware"
+          },
+          {
+            "id": 2,
+            "value": "encryption"
+          },
+          {
+            "id": 3,
+            "value": "homogeneous"
+          },
+          {
+            "id": 4,
+            "value": "Monitored"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "https://vkontakte.ru/ultrices/erat/tortor.jpg",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient",
+        "difficulty": "medium"
+      }, {
+        "question": "dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit",
+        "question_id": 89,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Ameliorated"
+          },
+          {
+            "id": 2,
+            "value": "web-enabled"
+          },
+          {
+            "id": 3,
+            "value": "Optional"
+          },
+          {
+            "id": 4,
+            "value": "knowledge base"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "https://technorati.com/nec.jsp",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet",
+        "difficulty": "hard"
+      }, {
+        "question": "ac diam cras pellentesque volutpat dui maecenas tristique est et tempus",
+        "question_id": 90,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Profit-focused"
+          },
+          {
+            "id": 2,
+            "value": "5th generation"
+          },
+          {
+            "id": 3,
+            "value": "system-worthy"
+          },
+          {
+            "id": 4,
+            "value": "interface"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "https://harvard.edu/dolor/morbi/vel.json",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "ac diam cras pellentesque volutpat dui maecenas tristique est et",
+        "difficulty": "easy"
+      }, {
+        "question": "pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie",
+        "question_id": 91,
+        "answers": [
+          {
+            "id": 1,
+            "value": "national"
+          },
+          {
+            "id": 2,
+            "value": "system engine"
+          },
+          {
+            "id": 3,
+            "value": "forecast"
+          },
+          {
+            "id": 4,
+            "value": "clear-thinking"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "http://naver.com/nec/nisi/volutpat.aspx",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "ipsum primis in faucibus orci luctus et ultrices posuere cubilia",
+        "difficulty": "medium"
+      }, {
+        "question": "nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet",
+        "question_id": 92,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Team-oriented"
+          },
+          {
+            "id": 2,
+            "value": "Cross-group"
+          },
+          {
+            "id": 3,
+            "value": "adapter"
+          },
+          {
+            "id": 4,
+            "value": "Re-contextualized"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "http://salon.com/dui/proin/leo/odio/porttitor/id/consequat.jpg",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac",
+        "difficulty": "hard"
+      }, {
+        "question": "ipsum primis in faucibus orci luctus et ultrices posuere cubilia",
+        "question_id": 93,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Networked"
+          },
+          {
+            "id": 2,
+            "value": "info-mediaries"
+          },
+          {
+            "id": 3,
+            "value": "explicit"
+          },
+          {
+            "id": 4,
+            "value": "Devolved"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "https://w3.org/lectus/pellentesque.jpg",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam",
+        "difficulty": "easy"
+      }, {
+        "question": "vitae mattis nibh ligula nec sem duis aliquam convallis nunc",
+        "question_id": 94,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Fundamental"
+          },
+          {
+            "id": 2,
+            "value": "even-keeled"
+          },
+          {
+            "id": 3,
+            "value": "Inverse"
+          },
+          {
+            "id": 4,
+            "value": "Optional"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "http://stumbleupon.com/et/ultrices/posuere.xml",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat",
+        "difficulty": "medium"
+      }, {
+        "question": "luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in",
+        "question_id": 95,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Digitized"
+          },
+          {
+            "id": 2,
+            "value": "Polarised"
+          },
+          {
+            "id": 3,
+            "value": "migration"
+          },
+          {
+            "id": 4,
+            "value": "matrices"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "https://msn.com/dapibus.html",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit",
+        "difficulty": "hard"
+      }, {
+        "question": "in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod",
+        "question_id": 96,
+        "answers": [
+          {
+            "id": 1,
+            "value": "5th generation"
+          },
+          {
+            "id": 2,
+            "value": "middleware"
+          },
+          {
+            "id": 3,
+            "value": "next generation"
+          },
+          {
+            "id": 4,
+            "value": "national"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "http://wikia.com/nulla.js",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt",
+        "difficulty": "easy"
+      }, {
+        "question": "at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales",
+        "question_id": 97,
+        "answers": [
+          {
+            "id": 1,
+            "value": "Adaptive"
+          },
+          {
+            "id": 2,
+            "value": "Quality-focused"
+          },
+          {
+            "id": 3,
+            "value": "functionalities"
+          },
+          {
+            "id": 4,
+            "value": "website"
+          }
+        ],
+        "correct_ans_id": 2,
+        "more_info": "http://zdnet.com/sapien/arcu/sed/augue/aliquam/erat/volutpat.xml",
+        "category": "CSS",
+        "type": "multiple-choice",
+        "explanation": "donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel",
+        "difficulty": "medium"
+      }, {
+        "question": "amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus",
+        "question_id": 98,
+        "answers": [
+          {
+            "id": 1,
+            "value": "responsive"
+          },
+          {
+            "id": 2,
+            "value": "solution-oriented"
+          },
+          {
+            "id": 3,
+            "value": "contingency"
+          },
+          {
+            "id": 4,
+            "value": "exuding"
+          }
+        ],
+        "correct_ans_id": 3,
+        "more_info": "https://yellowbook.com/quis/orci/eget/orci.html",
+        "category": "HTML",
+        "type": "multiple-choice",
+        "explanation": "nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat",
+        "difficulty": "hard"
+      }, {
+        "question": "potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non",
+        "question_id": 99,
+        "answers": [
+          {
+            "id": 1,
+            "value": "extranet"
+          },
+          {
+            "id": 2,
+            "value": "Inverse"
+          },
+          {
+            "id": 3,
+            "value": "Total"
+          },
+          {
+            "id": 4,
+            "value": "Customizable"
+          }
+        ],
+        "correct_ans_id": 4,
+        "more_info": "http://mozilla.com/leo/odio/condimentum/id/luctus/nec.json",
+        "category": "React",
+        "type": "multiple-choice",
+        "explanation": "luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus",
+        "difficulty": "easy"
+      }, {
+        "question": "sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur",
+        "question_id": 100,
+        "answers": [
+          {
+            "id": 1,
+            "value": "frame"
+          },
+          {
+            "id": 2,
+            "value": "regional"
+          },
+          {
+            "id": 3,
+            "value": "Optimized"
+          },
+          {
+            "id": 4,
+            "value": "Graphic Interface"
+          }
+        ],
+        "correct_ans_id": 1,
+        "more_info": "https://bandcamp.com/est/phasellus/sit/amet.html",
+        "category": "JS",
+        "type": "multiple-choice",
+        "explanation": "in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in",
+        "difficulty": "medium"
+      }]
+}
